@@ -1,9 +1,11 @@
 import random
 
+# main function to run
 def get_age():
     name = input("What is your name? ")
     result = 'n'
 
+    # while loop to make sure it doesn't end until it is right
     while (result != 'y'):
         age_guess = random.randrange(15, 41)
         print(age_guess)
