@@ -1,0 +1,2 @@
+8/27/26
+I am super excited for this class this semester. I have lots of questions about this career and I hope this class can answer them. I really like the subject matter and I think writing code is really fun (when it is something I actually know how to do), but I'm pretty worried about my future in this field. I feel behind most students who have done it for years and who do it for fun. I also know that the job market for software engineers is pretty bad, so that's another stressor. I hope to be more confident when this class is over.
