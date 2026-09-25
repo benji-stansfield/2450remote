@@ -12,3 +12,6 @@ We learned a lot about github today. I think that is the concept I am most eager
 
 9/17/26
 We talked a lot about diagrams today and how important it is to visualize your plan. I have some experience with flow charts from other classes, but component diagrams are new to me. I feel like I have a hard time with these because it's hard for me to sit and make a plan, even though I know it will help me in the long run. I usually change so many things as I go that I usually don't recognize whatever plan I had made at the beginning.
+
+9/24/26
+I missed Tuesday's class because I was super sick, but today I got to work with my team on our project pitch. I know that I put a lot of work into my portion of the assignment, I tried to keep it as professional as I could. I'm still not super stoked for the idea we landed on but I can sure as heck try to sell it. I hope my teammates come through and quit making the assignments a joke. I just hope it eventually runs to be honest.
