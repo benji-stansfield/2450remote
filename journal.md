@@ -18,3 +18,6 @@ I missed Tuesday's class because I was super sick, but today I got to work with 
 
 9/29/26
 Today was presentation day! After seeing all of the other teams present, I'm feeling a bit better about the route we are going. The team that had the linkedIn type page looked really cool, it would be really helpful in real life. I also loved the social media meant for hate, that was hilarious.
+
+10/1/26
+We learned a lot about the actual project management side of the job today. We went over the scrum master and I was made the scrum master for today. I'm glad I get to go first because it is the shortest. I'm not gonna lie, everyone else in my group seems way more qualified and confident than I do. I have no idea what I'm doing. How did I even get in this class? They say to start building stuff, where do I build it? And how do I make it all connect together? I'm not sure.
