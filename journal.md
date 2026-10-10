@@ -21,3 +21,6 @@ Today was presentation day! After seeing all of the other teams present, I'm fee
 
 10/1/26
 We learned a lot about the actual project management side of the job today. We went over the scrum master and I was made the scrum master for today. I'm glad I get to go first because it is the shortest. I'm not gonna lie, everyone else in my group seems way more qualified and confident than I do. I have no idea what I'm doing. How did I even get in this class? They say to start building stuff, where do I build it? And how do I make it all connect together? I'm not sure.
+
+10/9/26
+I just finished the agentic programming assignment. It was super easy to use the agent in order to fix the login problems. I used AI to also remind me how to create a branch and switch back and forth from 'main' to my others. AI is a super helpful tool that I'm continuing to learn how to use. I was pretty freaked out about it taking my job in semesters past, but now I realize I just need to learn to work with it in order to be more effictient.
