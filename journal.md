@@ -24,3 +24,6 @@ We learned a lot about the actual project management side of the job today. We w
 
 10/9/26
 I just finished the agentic programming assignment. It was super easy to use the agent in order to fix the login problems. I used AI to also remind me how to create a branch and switch back and forth from 'main' to my others. AI is a super helpful tool that I'm continuing to learn how to use. I was pretty freaked out about it taking my job in semesters past, but now I realize I just need to learn to work with it in order to be more effictient.
+
+10/20/26
+Class was very productive today. I was put in charge of making a shop page for our website and it was pretty intimidating. Fortunately, I was able to work a lot with AI agents, which made it a lot easier to figure out. Using HTML is still something I need to get used to and I don't really get it, but everything else I am feeling more confident about. The website is looking pretty nice right now, and it actually functions to some degree!
